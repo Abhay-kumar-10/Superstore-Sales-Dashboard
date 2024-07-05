@@ -12,10 +12,15 @@
 
   4. **Actionable Insights and Recommendations**: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
-  **Overview**
- 
+  **Overview** 
+  
+  ![Screenshot N1](https://github.com/Abhay-kumar-10/Superstore-Sales-Dashboard/assets/174067313/ee48601c-83d6-4171-8647-bc0e4d62fab7)
  
 
 **Forecast**
  
 ![Screenshot N2](https://github.com/Abhay-kumar-10/Superstore-Sales-Dashboard/assets/174067313/19d16204-3b17-4fde-a54c-d9209731e8e8)
+
+# Learning
+1.Incorporated data analysis techniques with a focus on time series analysis to deliver valuable insights and accurate sales forecasting.
+2.Created interactive dashboards that drive business success.
