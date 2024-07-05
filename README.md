@@ -14,6 +14,8 @@
 
   **Overview**
  
- ![Screenshot N1](https://github.com/Abhay-kumar-10/Superstore-Sales-Dashboard/assets/174067313/1b009265-14a1-4e84-b22a-df6e675e4e33)
+ 
 
 **Forecast**
+ 
+![Screenshot N2](https://github.com/Abhay-kumar-10/Superstore-Sales-Dashboard/assets/174067313/19d16204-3b17-4fde-a54c-d9209731e8e8)
